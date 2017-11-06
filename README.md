@@ -1,4 +1,4 @@
-# blogService
+# blogService   DEV
 基于koa2，restful风格的博客API服务
 
 以下路径均已```/api```为前缀
